@@ -1,7 +1,7 @@
 # Voice Command Chatbot 🎙️🤖
 
 This is my first Python chatbot project.  
-It can reply when you type simple messages.  
+Performs tasks by your voice command.  
 
 ---
 
